@@ -16,6 +16,7 @@
 - yarn
 - bootstrap
 - reactstrap
+- axios
 - react-scripts
 - react-websocket
 
