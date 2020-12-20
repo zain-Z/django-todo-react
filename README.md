@@ -6,9 +6,6 @@
 - pipenv
 - django / djangorestframework
 - django-cors-headers
-- channels
-- channels-redis
-- asgiref
 
 # Frontend
 
@@ -17,6 +14,8 @@
 - npm
 - create-react-app
 - yarn
+- bootstrap
+- reactstrap
 - react-scripts
 - react-websocket
 
