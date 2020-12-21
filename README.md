@@ -30,7 +30,7 @@ To start project without getting any errors:
 6. run `[pipenv install djangorestframework]`
 7. run `[pipenv install django-cors-headers]`
 8. run `[npm install]` for installing all frontend dependencies
-9. run ``[python manage.py runserver]`
+9. run `[python manage.py runserver]`
 10. run `[yarn start]` if you installed yarn or you can use `[npm start]`
 
 ## Run the application
