@@ -7,6 +7,10 @@
 - django / djangorestframework
 - django-cors-headers
 
+## Database
+
+- postgreSQL13
+
 # Frontend
 
 - javascript
